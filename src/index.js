@@ -1,12 +1,12 @@
 /**
 =========================================================
-* Material Dashboard 2 React - v2.2.0
+* Molecule 360 Dashboard Team 
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/material-dashboard-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
+* Product Page: Currently In Development
+* Copyright 2023 Molecule 360 Team
 
-Coded by www.creative-tim.com
+Coded by Ram Munde
 
 =========================================================
 
